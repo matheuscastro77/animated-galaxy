@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://animated-galaxy-murex.vercel.app/
+[Animated Galaxy](https://animated-galaxy-murex.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
